@@ -1,5 +1,0 @@
-[plugin.com.jacobtread.tilepad.vtstudio]
-name = "VTube Studio"
-authors = ["Jacobtread"]
-description = "Interact with VTube Studio through Tilepad tiles"
-repo = "TilePad/tilepad-plugin-vt-studio"
