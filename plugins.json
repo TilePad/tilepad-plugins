@@ -6,7 +6,15 @@
             "Jacobtread"
         ],
         "description": "Interact with VTube Studio through Tilepad tiles",
-        "repo": "TilePad/tilepad-plugin-vt-studio",
-        "branch": "main"
+        "repo": "TilePad/tilepad-plugin-vt-studio"
+    },
+    {
+        "id": "com.jacobtread.tilepad.obs-studio",
+        "name": "OBS Studio",
+        "authors": [
+            "Jacobtread"
+        ],
+        "description": "Interact with OBS Studio through Tilepad tiles",
+        "repo": "TilePad/tilepad-plugin-obs-studio"
     }
 ]
