@@ -1,0 +1,2718 @@
+[
+    {
+        "id": "com.jacobtread.iconify.ri",
+        "name": "Remix Icon",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Remix Design (https://github.com/Remix-Design/RemixIcon)"
+            ]
+        ],
+        "description": "Iconify Remix Icon Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.ri.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.iconamoon",
+        "name": "IconaMoon",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Dariush Habibpour (https://github.com/dariushhpg1/IconaMoon)"
+            ]
+        ],
+        "description": "Iconify IconaMoon Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.iconamoon.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.iconoir",
+        "name": "Iconoir",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Luca Burgio (https://github.com/iconoir-icons/iconoir)"
+            ]
+        ],
+        "description": "Iconify Iconoir Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.iconoir.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.line-md",
+        "name": "Material Line Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Vjacheslav Trushkin (https://github.com/cyberalien/line-md)"
+            ]
+        ],
+        "description": "Iconify Material Line Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.line-md.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.mynaui",
+        "name": "Myna UI Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Praveen Juge (https://github.com/praveenjuge/mynaui-icons)"
+            ]
+        ],
+        "description": "Iconify Myna UI Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.mynaui.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.tabler",
+        "name": "Tabler Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Paweł Kuna (https://github.com/tabler/tabler-icons)"
+            ]
+        ],
+        "description": "Iconify Tabler Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.tabler.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.mdi-light",
+        "name": "Material Design Light",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Pictogrammers (https://github.com/Templarian/MaterialDesignLight)"
+            ]
+        ],
+        "description": "Iconify Material Design Light Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.mdi-light.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.lucide",
+        "name": "Lucide",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Lucide Contributors (https://github.com/lucide-icons/lucide)"
+            ]
+        ],
+        "description": "Iconify Lucide Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.lucide.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.hugeicons",
+        "name": "Huge Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Hugeicons (https://icon-sets.iconify.design/icon-sets/hugeicons/)"
+            ]
+        ],
+        "description": "Iconify Huge Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.hugeicons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.mdi",
+        "name": "Material Design Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Pictogrammers (https://github.com/Templarian/MaterialDesign)"
+            ]
+        ],
+        "description": "Iconify Material Design Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.mdi.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.mingcute",
+        "name": "MingCute Icon",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "MingCute Design (https://github.com/Richard9394/MingCute)"
+            ]
+        ],
+        "description": "Iconify MingCute Icon Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.mingcute.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.ic",
+        "name": "Google Material Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Material Design Authors (https://github.com/material-icons/material-icons)"
+            ]
+        ],
+        "description": "Iconify Google Material Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.ic.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.solar",
+        "name": "Solar",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "480 Design (https://www.figma.com/community/file/1166831539721848736)"
+            ]
+        ],
+        "description": "Iconify Solar Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.solar.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.material-symbols",
+        "name": "Material Symbols",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Google (https://github.com/google/material-design-icons)"
+            ]
+        ],
+        "description": "Iconify Material Symbols Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.material-symbols.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.material-symbols-light",
+        "name": "Material Symbols Light",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Google (https://github.com/google/material-design-icons)"
+            ]
+        ],
+        "description": "Iconify Material Symbols Light Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.material-symbols-light.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.majesticons",
+        "name": "Majesticons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Gerrit Halfmann (https://github.com/halfmage/majesticons)"
+            ]
+        ],
+        "description": "Iconify Majesticons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.majesticons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.bxs",
+        "name": "BoxIcons Solid",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Atisa (https://github.com/atisawd/boxicons)"
+            ]
+        ],
+        "description": "Iconify BoxIcons Solid Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.bxs.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.lucide-lab",
+        "name": "Lucide Lab",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Lucide Contributors (https://github.com/lucide-icons/lucide-lab)"
+            ]
+        ],
+        "description": "Iconify Lucide Lab Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.lucide-lab.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.si",
+        "name": "Sargam Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Abhimanyu Rana (https://github.com/planetabhi/sargam-icons)"
+            ]
+        ],
+        "description": "Iconify Sargam Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.si.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.basil",
+        "name": "Basil",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Craftwork (https://www.figma.com/community/file/931906394678748246)"
+            ]
+        ],
+        "description": "Iconify Basil Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.basil.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.pixelarticons",
+        "name": "Pixelarticons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Gerrit Halfmann (https://github.com/halfmage/pixelarticons)"
+            ]
+        ],
+        "description": "Iconify Pixelarticons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.pixelarticons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.uil",
+        "name": "Unicons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Iconscout (https://github.com/Iconscout/unicons)"
+            ]
+        ],
+        "description": "Iconify Unicons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.uil.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.gg",
+        "name": "css.gg",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Astrit (https://github.com/astrit/css.gg)"
+            ]
+        ],
+        "description": "Iconify css.gg Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.gg.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.akar-icons",
+        "name": "Akar Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Arturo Wibawa (https://github.com/artcoholic/akar-icons)"
+            ]
+        ],
+        "description": "Iconify Akar Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.akar-icons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.tdesign",
+        "name": "TDesign Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "TDesign (https://github.com/Tencent/tdesign-icons)"
+            ]
+        ],
+        "description": "Iconify TDesign Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.tdesign.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.flowbite",
+        "name": "Flowbite Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Themesberg (https://github.com/themesberg/flowbite-icons)"
+            ]
+        ],
+        "description": "Iconify Flowbite Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.flowbite.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.bx",
+        "name": "BoxIcons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Atisa (https://github.com/atisawd/boxicons)"
+            ]
+        ],
+        "description": "Iconify BoxIcons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.bx.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.pixel",
+        "name": "Pixel Icon",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "HackerNoon (https://github.com/hackernoon/pixel-icon-library)"
+            ]
+        ],
+        "description": "Iconify Pixel Icon Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.pixel.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.proicons",
+        "name": "ProIcons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "ProCode (https://github.com/ProCode-Software/proicons)"
+            ]
+        ],
+        "description": "Iconify ProIcons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.proicons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.ci",
+        "name": "coolicons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Kryston Schwarze (https://github.com/krystonschwarze/coolicons)"
+            ]
+        ],
+        "description": "Iconify coolicons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.ci.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.typcn",
+        "name": "Typicons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Stephen Hutchings (https://github.com/stephenhutchings/typicons.font)"
+            ]
+        ],
+        "description": "Iconify Typicons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.typcn.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.meteor-icons",
+        "name": "Meteor Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "zkreations (https://github.com/zkreations/icons)"
+            ]
+        ],
+        "description": "Iconify Meteor Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.meteor-icons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.prime",
+        "name": "Prime Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "PrimeTek (https://github.com/primefaces/primeicons)"
+            ]
+        ],
+        "description": "Iconify Prime Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.prime.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.circum",
+        "name": "Circum Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Klarr Agency (https://github.com/Klarr-Agency/Circum-Icons)"
+            ]
+        ],
+        "description": "Iconify Circum Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.circum.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.fe",
+        "name": "Feather Icon",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Megumi Hano (https://github.com/feathericon/feathericon)"
+            ]
+        ],
+        "description": "Iconify Feather Icon Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.fe.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.eos-icons",
+        "name": "EOS Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "SUSE UX/UI team (https://gitlab.com/SUSE-UIUX/eos-icons)"
+            ]
+        ],
+        "description": "Iconify EOS Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.eos-icons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.humbleicons",
+        "name": "Humbleicons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Jiří Zralý (https://github.com/zraly/humbleicons)"
+            ]
+        ],
+        "description": "Iconify Humbleicons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.humbleicons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.bitcoin-icons",
+        "name": "Bitcoin Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Bitcoin Design Community (https://github.com/BitcoinDesign/Bitcoin-Icons)"
+            ]
+        ],
+        "description": "Iconify Bitcoin Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.bitcoin-icons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.uim",
+        "name": "Unicons Monochrome",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Iconscout (https://github.com/Iconscout/unicons)"
+            ]
+        ],
+        "description": "Iconify Unicons Monochrome Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.uim.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.uit",
+        "name": "Unicons Thin Line",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Iconscout (https://github.com/Iconscout/unicons)"
+            ]
+        ],
+        "description": "Iconify Unicons Thin Line Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.uit.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.uis",
+        "name": "Unicons Solid",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Iconscout (https://github.com/Iconscout/unicons)"
+            ]
+        ],
+        "description": "Iconify Unicons Solid Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.uis.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.gridicons",
+        "name": "Gridicons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Automattic (https://github.com/Automattic/gridicons)"
+            ]
+        ],
+        "description": "Iconify Gridicons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.gridicons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.weui",
+        "name": "WeUI Icon",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "WeUI (https://github.com/weui/weui-icon)"
+            ]
+        ],
+        "description": "Iconify WeUI Icon Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.weui.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.mi",
+        "name": "Mono Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Mono (https://github.com/mono-company/mono-icons)"
+            ]
+        ],
+        "description": "Iconify Mono Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.mi.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.cuida",
+        "name": "Cuida Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Sysvale (https://github.com/Sysvale/cuida-icons)"
+            ]
+        ],
+        "description": "Iconify Cuida Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.cuida.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.svg-spinners",
+        "name": "SVG Spinners",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Utkarsh Verma (https://github.com/n3r4zzurr0/svg-spinners)"
+            ]
+        ],
+        "description": "Iconify SVG Spinners Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.svg-spinners.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.jam",
+        "name": "Jam Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Michael Amprimo (https://github.com/michaelampr)"
+            ]
+        ],
+        "description": "Iconify Jam Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.jam.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.mage",
+        "name": "Mage Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "MageIcons (https://github.com/Mage-Icons/mage-icons)"
+            ]
+        ],
+        "description": "Iconify Mage Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.mage.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.lets-icons",
+        "name": "Lets Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Leonid Tsvetkov (https://www.figma.com/community/file/886554014393250663)"
+            ]
+        ],
+        "description": "Iconify Lets Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.lets-icons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.lineicons",
+        "name": "Lineicons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Lineicons (https://github.com/LineiconsHQ/Lineicons)"
+            ]
+        ],
+        "description": "Iconify Lineicons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.lineicons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.icon-park-solid",
+        "name": "IconPark Solid",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "ByteDance (https://github.com/bytedance/IconPark)"
+            ]
+        ],
+        "description": "Iconify IconPark Solid Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.icon-park-solid.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.duo-icons",
+        "name": "Duoicons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "fernandcf (https://github.com/fazdiu/duo-icons)"
+            ]
+        ],
+        "description": "Iconify Duoicons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.duo-icons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.famicons",
+        "name": "Famicons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Family (https://github.com/familyjs/famicons)"
+            ]
+        ],
+        "description": "Iconify Famicons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.famicons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.ant-design",
+        "name": "Ant Design Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "HeskeyBaozi (https://github.com/ant-design/ant-design-icons)"
+            ]
+        ],
+        "description": "Iconify Ant Design Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.ant-design.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.guidance",
+        "name": "Guidance",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Streamline (https://github.com/webalys-hq/streamline-vectors)"
+            ]
+        ],
+        "description": "Iconify Guidance Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.guidance.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.icon-park-outline",
+        "name": "IconPark Outline",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "ByteDance (https://github.com/bytedance/IconPark)"
+            ]
+        ],
+        "description": "Iconify IconPark Outline Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.icon-park-outline.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.stash",
+        "name": "Stash Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Pingback LLC (https://github.com/stash-ui/icons)"
+            ]
+        ],
+        "description": "Iconify Stash Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.stash.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.icon-park-twotone",
+        "name": "IconPark TwoTone",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "ByteDance (https://github.com/bytedance/IconPark)"
+            ]
+        ],
+        "description": "Iconify IconPark TwoTone Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.icon-park-twotone.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.carbon",
+        "name": "Carbon",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "IBM (https://github.com/carbon-design-system/carbon/tree/main/packages/icons)"
+            ]
+        ],
+        "description": "Iconify Carbon Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.carbon.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.ion",
+        "name": "IonIcons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Ben Sperry (https://github.com/ionic-team/ionicons)"
+            ]
+        ],
+        "description": "Iconify IonIcons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.ion.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.lsicon",
+        "name": "Lsicon",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Wis Design (https://www.lsicon.com/)"
+            ]
+        ],
+        "description": "Iconify Lsicon Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.lsicon.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.gravity-ui",
+        "name": "Gravity UI Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "YANDEX LLC (https://github.com/gravity-ui/icons/)"
+            ]
+        ],
+        "description": "Iconify Gravity UI Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.gravity-ui.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.cil",
+        "name": "CoreUI Free",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "creativeLabs Łukasz Holeczek (https://github.com/coreui/coreui-icons)"
+            ]
+        ],
+        "description": "Iconify CoreUI Free Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.cil.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.ep",
+        "name": "Element Plus",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Element Plus (https://github.com/element-plus/element-plus-icons)"
+            ]
+        ],
+        "description": "Iconify Element Plus Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.ep.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.charm",
+        "name": "Charm Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Jay Newey (https://github.com/jaynewey/charm-icons)"
+            ]
+        ],
+        "description": "Iconify Charm Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.charm.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.rivet-icons",
+        "name": "Rivet Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Indiana University (https://github.com/indiana-university/rivet-icons)"
+            ]
+        ],
+        "description": "Iconify Rivet Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.rivet-icons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.quill",
+        "name": "Quill Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Casper Lourens (https://www.figma.com/community/file/1034432054377533052/Quill-Iconset)"
+            ]
+        ],
+        "description": "Iconify Quill Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.quill.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.bytesize",
+        "name": "Bytesize Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Dan Klammer (https://github.com/danklammer/bytesize-icons)"
+            ]
+        ],
+        "description": "Iconify Bytesize Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.bytesize.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.clarity",
+        "name": "Clarity",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "VMware (https://github.com/vmware/clarity)"
+            ]
+        ],
+        "description": "Iconify Clarity Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.clarity.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.bi",
+        "name": "Bootstrap Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "The Bootstrap Authors (https://github.com/twbs/icons)"
+            ]
+        ],
+        "description": "Iconify Bootstrap Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.bi.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.nimbus",
+        "name": "Nimbus",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Linkedstore S.A. (https://github.com/cyberalien/nimbus-icons)"
+            ]
+        ],
+        "description": "Iconify Nimbus Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.nimbus.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.formkit",
+        "name": "FormKit Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "FormKit, Inc (https://github.com/formkit/formkit/tree/master/packages/icons)"
+            ]
+        ],
+        "description": "Iconify FormKit Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.formkit.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.teenyicons",
+        "name": "Teenyicons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "smhmd (https://github.com/teenyicons/teenyicons)"
+            ]
+        ],
+        "description": "Iconify Teenyicons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.teenyicons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.ph",
+        "name": "Phosphor",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Phosphor Icons (https://github.com/phosphor-icons/core)"
+            ]
+        ],
+        "description": "Iconify Phosphor Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.ph.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.fluent",
+        "name": "Fluent UI System Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Microsoft Corporation (https://github.com/microsoft/fluentui-system-icons)"
+            ]
+        ],
+        "description": "Iconify Fluent UI System Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.fluent.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.system-uicons",
+        "name": "System UIcons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Corey Ginnivan (https://github.com/CoreyGinnivan/system-uicons)"
+            ]
+        ],
+        "description": "Iconify System UIcons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.system-uicons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.memory",
+        "name": "Memory Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Pictogrammers (https://github.com/Pictogrammers/Memory)"
+            ]
+        ],
+        "description": "Iconify Memory Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.memory.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.radix-icons",
+        "name": "Radix Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "WorkOS (https://github.com/radix-ui/icons)"
+            ]
+        ],
+        "description": "Iconify Radix Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.radix-icons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.maki",
+        "name": "Maki",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Mapbox (https://github.com/mapbox/maki)"
+            ]
+        ],
+        "description": "Iconify Maki Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.maki.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.codex",
+        "name": "CodeX Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "CodeX (https://github.com/codex-team/icons)"
+            ]
+        ],
+        "description": "Iconify CodeX Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.codex.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.zondicons",
+        "name": "Zondicons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Steve Schoger (https://github.com/dukestreetstudio/zondicons)"
+            ]
+        ],
+        "description": "Iconify Zondicons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.zondicons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.octicon",
+        "name": "Octicons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "GitHub (https://github.com/primer/octicons/)"
+            ]
+        ],
+        "description": "Iconify Octicons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.octicon.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.ix",
+        "name": "Siemens Industrial Experience Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Siemens AG (https://github.com/siemens/ix-icons)"
+            ]
+        ],
+        "description": "Iconify Siemens Industrial Experience Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.ix.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.heroicons",
+        "name": "HeroIcons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Refactoring UI Inc (https://github.com/tailwindlabs/heroicons)"
+            ]
+        ],
+        "description": "Iconify HeroIcons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.heroicons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.pepicons-pop",
+        "name": "Pepicons Pop!",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "CyCraft (https://github.com/CyCraft/pepicons)"
+            ]
+        ],
+        "description": "Iconify Pepicons Pop! Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.pepicons-pop.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.pepicons-pencil",
+        "name": "Pepicons Pencil",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "CyCraft (https://github.com/CyCraft/pepicons)"
+            ]
+        ],
+        "description": "Iconify Pepicons Pencil Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.pepicons-pencil.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.uiw",
+        "name": "uiw icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "liwen0526 (https://github.com/uiwjs/icons)"
+            ]
+        ],
+        "description": "Iconify uiw icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.uiw.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.f7",
+        "name": "Framework7 Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Vladimir Kharlampidi (https://github.com/framework7io/framework7-icons)"
+            ]
+        ],
+        "description": "Iconify Framework7 Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.f7.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.ei",
+        "name": "Evil Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Alexander Madyankin and Roman Shamin (https://github.com/evil-icons/evil-icons)"
+            ]
+        ],
+        "description": "Iconify Evil Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.ei.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.pepicons-print",
+        "name": "Pepicons Print",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "CyCraft (https://github.com/CyCraft/pepicons)"
+            ]
+        ],
+        "description": "Iconify Pepicons Print Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.pepicons-print.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.ooui",
+        "name": "OOUI",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "OOUI Team (https://github.com/wikimedia/oojs-ui)"
+            ]
+        ],
+        "description": "Iconify OOUI Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.ooui.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.fa6-regular",
+        "name": "Font Awesome Regular",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Dave Gandy (https://github.com/FortAwesome/Font-Awesome)"
+            ]
+        ],
+        "description": "Iconify Font Awesome Regular Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.fa6-regular.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.pajamas",
+        "name": "Gitlab SVGs",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "GitLab B.V. (https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main)"
+            ]
+        ],
+        "description": "Iconify Gitlab SVGs Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.pajamas.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.garden",
+        "name": "Garden SVG Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Zendesk (https://github.com/zendeskgarden/svg-icons)"
+            ]
+        ],
+        "description": "Iconify Garden SVG Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.garden.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.nrk",
+        "name": "NRK Core Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Norsk rikskringkasting (https://github.com/nrkno/core-icons)"
+            ]
+        ],
+        "description": "Iconify NRK Core Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.nrk.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.marketeq",
+        "name": "Marketeq",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Marketeq (undefined)"
+            ]
+        ],
+        "description": "Iconify Marketeq Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.marketeq.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.fa6-solid",
+        "name": "Font Awesome Solid",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Dave Gandy (https://github.com/FortAwesome/Font-Awesome)"
+            ]
+        ],
+        "description": "Iconify Font Awesome Solid Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.fa6-solid.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.qlementine-icons",
+        "name": "Qlementine Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Olivier Cléro (https://github.com/oclero/qlementine-icons)"
+            ]
+        ],
+        "description": "Iconify Qlementine Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.qlementine-icons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.oui",
+        "name": "OpenSearch UI",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "OpenSearch Contributors (https://github.com/opensearch-project/oui)"
+            ]
+        ],
+        "description": "Iconify OpenSearch UI Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.oui.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.material-icon-theme",
+        "name": "Material Icon Theme",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Material Extensions (https://github.com/material-extensions/vscode-material-icon-theme)"
+            ]
+        ],
+        "description": "Iconify Material Icon Theme Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.material-icon-theme.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.streamline",
+        "name": "Streamline",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Streamline (https://github.com/webalys-hq/streamline-vectors)"
+            ]
+        ],
+        "description": "Iconify Streamline Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.streamline.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.icon-park",
+        "name": "IconPark",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "ByteDance (https://github.com/bytedance/IconPark)"
+            ]
+        ],
+        "description": "Iconify IconPark Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.icon-park.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.codicon",
+        "name": "Codicons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Microsoft Corporation (https://github.com/microsoft/vscode-codicons)"
+            ]
+        ],
+        "description": "Iconify Codicons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.codicon.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.fluent-color",
+        "name": "Fluent UI System Color Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Microsoft Corporation (https://github.com/microsoft/fluentui-system-icons)"
+            ]
+        ],
+        "description": "Iconify Fluent UI System Color Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.fluent-color.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.vscode-icons",
+        "name": "VSCode Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Roberto Huertas (https://github.com/vscode-icons/vscode-icons)"
+            ]
+        ],
+        "description": "Iconify VSCode Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.vscode-icons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.bxl",
+        "name": "BoxIcons Logo",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Atisa (https://github.com/atisawd/boxicons)"
+            ]
+        ],
+        "description": "Iconify BoxIcons Logo Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.bxl.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.catppuccin",
+        "name": "Catppuccin Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Catppuccin (https://github.com/catppuccin/vscode-icons)"
+            ]
+        ],
+        "description": "Iconify Catppuccin Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.catppuccin.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.fa6-brands",
+        "name": "Font Awesome Brands",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Dave Gandy (https://github.com/FortAwesome/Font-Awesome)"
+            ]
+        ],
+        "description": "Iconify Font Awesome Brands Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.fa6-brands.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.file-icons",
+        "name": "File Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "John Gardner (https://github.com/file-icons/icons)"
+            ]
+        ],
+        "description": "Iconify File Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.file-icons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.unjs",
+        "name": "UnJS Logos",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "UnJS (https://github.com/unjs)"
+            ]
+        ],
+        "description": "Iconify UnJS Logos Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.unjs.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.cib",
+        "name": "CoreUI Brands",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "creativeLabs Łukasz Holeczek (https://github.com/coreui/coreui-icons)"
+            ]
+        ],
+        "description": "Iconify CoreUI Brands Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.cib.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.skill-icons",
+        "name": "Skill Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "tandpfun (https://github.com/tandpfun/skill-icons)"
+            ]
+        ],
+        "description": "Iconify Skill Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.skill-icons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.devicon-plain",
+        "name": "Devicon Plain",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "konpa (https://github.com/devicons/devicon/tree/master)"
+            ]
+        ],
+        "description": "Iconify Devicon Plain Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.devicon-plain.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.brandico",
+        "name": "Brandico",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Fontello (https://github.com/fontello/brandico.font)"
+            ]
+        ],
+        "description": "Iconify Brandico Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.brandico.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.nonicons",
+        "name": "Nonicons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "yamatsum (https://github.com/yamatsum/nonicons)"
+            ]
+        ],
+        "description": "Iconify Nonicons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.nonicons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.devicon",
+        "name": "Devicon",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "konpa (https://github.com/devicons/devicon/tree/master)"
+            ]
+        ],
+        "description": "Iconify Devicon Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.devicon.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.simple-icons",
+        "name": "Simple Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Simple Icons Collaborators (https://github.com/simple-icons/simple-icons)"
+            ]
+        ],
+        "description": "Iconify Simple Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.simple-icons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.cbi",
+        "name": "Custom Brand Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Emanuele & rchiileea (https://github.com/elax46/custom-brand-icons)"
+            ]
+        ],
+        "description": "Iconify Custom Brand Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.cbi.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.logos",
+        "name": "SVG Logos",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Gil Barbara (https://github.com/gilbarbara/logos)"
+            ]
+        ],
+        "description": "Iconify SVG Logos Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.logos.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.arcticons",
+        "name": "Arcticons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Donnnno (https://github.com/Arcticons-Team/Arcticons)"
+            ]
+        ],
+        "description": "Iconify Arcticons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.arcticons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.cryptocurrency",
+        "name": "Cryptocurrency Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Christopher Downer (https://github.com/atomiclabs/cryptocurrency-icons)"
+            ]
+        ],
+        "description": "Iconify Cryptocurrency Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.cryptocurrency.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.cryptocurrency-color",
+        "name": "Cryptocurrency Color Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Christopher Downer (https://github.com/atomiclabs/cryptocurrency-icons)"
+            ]
+        ],
+        "description": "Iconify Cryptocurrency Color Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.cryptocurrency-color.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.token",
+        "name": "Web3 Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "0xa3k5 (https://github.com/0xa3k5/web3icons)"
+            ]
+        ],
+        "description": "Iconify Web3 Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.token.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.entypo-social",
+        "name": "Entypo+ Social",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Daniel Bruce (https://github.com/chancancode/entypo-plus)"
+            ]
+        ],
+        "description": "Iconify Entypo+ Social Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.entypo-social.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.fluent-emoji-high-contrast",
+        "name": "Fluent Emoji High Contrast",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Microsoft Corporation (https://github.com/microsoft/fluentui-emoji)"
+            ]
+        ],
+        "description": "Iconify Fluent Emoji High Contrast Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.fluent-emoji-high-contrast.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.emojione",
+        "name": "Emoji One (Colored)",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Emoji One (https://github.com/EmojiTwo/emojitwo)"
+            ]
+        ],
+        "description": "Iconify Emoji One (Colored) Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.emojione.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.emojione-monotone",
+        "name": "Emoji One (Monotone)",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Emoji One (https://github.com/EmojiTwo/emojitwo)"
+            ]
+        ],
+        "description": "Iconify Emoji One (Monotone) Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.emojione-monotone.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.token-branded",
+        "name": "Web3 Icons Branded",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "0xa3k5 (https://github.com/0xa3k5/web3icons)"
+            ]
+        ],
+        "description": "Iconify Web3 Icons Branded Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.token-branded.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.openmoji",
+        "name": "OpenMoji",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "OpenMoji (https://github.com/hfg-gmuend/openmoji)"
+            ]
+        ],
+        "description": "Iconify OpenMoji Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.openmoji.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.twemoji",
+        "name": "Twitter Emoji",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Twitter (https://github.com/twitter/twemoji)"
+            ]
+        ],
+        "description": "Iconify Twitter Emoji Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.twemoji.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.noto-v1",
+        "name": "Noto Emoji (v1)",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Google Inc (https://github.com/googlefonts/noto-emoji)"
+            ]
+        ],
+        "description": "Iconify Noto Emoji (v1) Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.noto-v1.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.fluent-emoji-flat",
+        "name": "Fluent Emoji Flat",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Microsoft Corporation (https://github.com/microsoft/fluentui-emoji)"
+            ]
+        ],
+        "description": "Iconify Fluent Emoji Flat Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.fluent-emoji-flat.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.emojione-v1",
+        "name": "Emoji One (v1)",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Emoji One (https://github.com/joypixels/emojione-legacy)"
+            ]
+        ],
+        "description": "Iconify Emoji One (v1) Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.emojione-v1.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.noto",
+        "name": "Noto Emoji",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Google Inc (https://github.com/googlefonts/noto-emoji)"
+            ]
+        ],
+        "description": "Iconify Noto Emoji Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.noto.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.fluent-emoji",
+        "name": "Fluent Emoji",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Microsoft Corporation (https://github.com/microsoft/fluentui-emoji)"
+            ]
+        ],
+        "description": "Iconify Fluent Emoji Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.fluent-emoji.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.fad",
+        "name": "FontAudio",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "@fefanto (https://github.com/fefanto/fontaudio)"
+            ]
+        ],
+        "description": "Iconify FontAudio Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.fad.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.academicons",
+        "name": "Academicons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "James Walsh (https://github.com/jpswalsh/academicons)"
+            ]
+        ],
+        "description": "Iconify Academicons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.academicons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.circle-flags",
+        "name": "Circle Flags",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "HatScripts (https://github.com/HatScripts/circle-flags)"
+            ]
+        ],
+        "description": "Iconify Circle Flags Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.circle-flags.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.flagpack",
+        "name": "Flagpack",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Yummygum (https://github.com/Yummygum/flagpack-core)"
+            ]
+        ],
+        "description": "Iconify Flagpack Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.flagpack.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.gis",
+        "name": "Font-GIS",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Jean-Marc Viglino (https://github.com/viglino/font-gis)"
+            ]
+        ],
+        "description": "Iconify Font-GIS Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.gis.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.map",
+        "name": "Map Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Scott de Jonge (https://github.com/scottdejonge/map-icons)"
+            ]
+        ],
+        "description": "Iconify Map Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.map.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.meteocons",
+        "name": "Meteocons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Bas Milius (https://github.com/basmilius/weather-icons)"
+            ]
+        ],
+        "description": "Iconify Meteocons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.meteocons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.streamline-emojis",
+        "name": "Streamline Emojis",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Streamline (https://github.com/webalys-hq/streamline-vectors)"
+            ]
+        ],
+        "description": "Iconify Streamline Emojis Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.streamline-emojis.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.geo",
+        "name": "GeoGlyphs",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Sam Matthews (https://github.com/cugos/geoglyphs)"
+            ]
+        ],
+        "description": "Iconify GeoGlyphs Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.geo.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.wi",
+        "name": "Weather Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Erik Flowers (https://github.com/erikflowers/weather-icons)"
+            ]
+        ],
+        "description": "Iconify Weather Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.wi.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.fxemoji",
+        "name": "Firefox OS Emoji",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Mozilla (https://github.com/mozilla/fxemoji)"
+            ]
+        ],
+        "description": "Iconify Firefox OS Emoji Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.fxemoji.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.healthicons",
+        "name": "Health Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Resolve to Save Lives (https://github.com/resolvetosavelives/healthicons)"
+            ]
+        ],
+        "description": "Iconify Health Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.healthicons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.cif",
+        "name": "CoreUI Flags",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "creativeLabs Łukasz Holeczek (https://github.com/coreui/coreui-icons)"
+            ]
+        ],
+        "description": "Iconify CoreUI Flags Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.cif.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.flag",
+        "name": "Flag Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Panayiotis Lipiridis (https://github.com/lipis/flag-icons)"
+            ]
+        ],
+        "description": "Iconify Flag Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.flag.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.game-icons",
+        "name": "Game Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "GameIcons (https://github.com/game-icons/icons)"
+            ]
+        ],
+        "description": "Iconify Game Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.game-icons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.medical-icon",
+        "name": "Medical Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Samuel Frémondière (https://github.com/samcome/webfont-medical-icons)"
+            ]
+        ],
+        "description": "Iconify Medical Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.medical-icon.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.eva",
+        "name": "Eva Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Akveo (https://github.com/akveo/eva-icons/)"
+            ]
+        ],
+        "description": "Iconify Eva Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.eva.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.covid",
+        "name": "Covid Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Streamline (https://github.com/webalys-hq/streamline-vectors)"
+            ]
+        ],
+        "description": "Iconify Covid Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.covid.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.dashicons",
+        "name": "Dashicons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "WordPress (https://github.com/WordPress/dashicons)"
+            ]
+        ],
+        "description": "Iconify Dashicons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.dashicons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.entypo",
+        "name": "Entypo+",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Daniel Bruce (https://github.com/chancancode/entypo-plus)"
+            ]
+        ],
+        "description": "Iconify Entypo+ Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.entypo.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.foundation",
+        "name": "Foundation",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Zurb (https://github.com/zurb/foundation-icon-fonts)"
+            ]
+        ],
+        "description": "Iconify Foundation Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.foundation.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.raphael",
+        "name": "Raphael",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Dmitry Baranovskiy (https://github.com/dmitrybaranovskiy/raphael)"
+            ]
+        ],
+        "description": "Iconify Raphael Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.raphael.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.flat-color-icons",
+        "name": "Flat Color Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Icons8 (https://github.com/icons8/flat-Color-icons)"
+            ]
+        ],
+        "description": "Iconify Flat Color Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.flat-color-icons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.iwwa",
+        "name": "Innowatio Font",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Innowatio (https://github.com/innowatio/iwwa-icons)"
+            ]
+        ],
+        "description": "Iconify Innowatio Font Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.iwwa.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.gala",
+        "name": "Gala Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Jake Wells (https://github.com/cyberalien/gala-icons)"
+            ]
+        ],
+        "description": "Iconify Gala Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.gala.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.fa-solid",
+        "name": "Font Awesome 5 Solid",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Dave Gandy (https://github.com/FortAwesome/Font-Awesome)"
+            ]
+        ],
+        "description": "Iconify Font Awesome 5 Solid Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.fa-solid.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.la",
+        "name": "Line Awesome",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Icons8 (https://github.com/icons8/line-awesome)"
+            ]
+        ],
+        "description": "Iconify Line Awesome Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.la.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.icons8",
+        "name": "Icons8 Windows 10 Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Icons8 (https://github.com/icons8/windows-10-icons)"
+            ]
+        ],
+        "description": "Iconify Icons8 Windows 10 Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.icons8.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.heroicons-outline",
+        "name": "HeroIcons v1 Outline",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Refactoring UI Inc (https://github.com/tailwindlabs/heroicons)"
+            ]
+        ],
+        "description": "Iconify HeroIcons v1 Outline Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.heroicons-outline.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.heroicons-solid",
+        "name": "HeroIcons v1 Solid",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Refactoring UI Inc (https://github.com/tailwindlabs/heroicons)"
+            ]
+        ],
+        "description": "Iconify HeroIcons v1 Solid Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.heroicons-solid.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.fa-regular",
+        "name": "Font Awesome 5 Regular",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Dave Gandy (https://github.com/FortAwesome/Font-Awesome)"
+            ]
+        ],
+        "description": "Iconify Font Awesome 5 Regular Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.fa-regular.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.icomoon-free",
+        "name": "IcoMoon Free",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Keyamoon (https://github.com/Keyamoon/IcoMoon-Free)"
+            ]
+        ],
+        "description": "Iconify IcoMoon Free Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.icomoon-free.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.fa-brands",
+        "name": "Font Awesome 5 Brands",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Dave Gandy (https://github.com/FortAwesome/Font-Awesome)"
+            ]
+        ],
+        "description": "Iconify Font Awesome 5 Brands Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.fa-brands.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.subway",
+        "name": "Subway Icon Set",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Mariusz Ostrowski (https://github.com/mariuszostrowski/subway)"
+            ]
+        ],
+        "description": "Iconify Subway Icon Set Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.subway.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.oi",
+        "name": "Open Iconic",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Iconic (https://github.com/iconic/open-iconic)"
+            ]
+        ],
+        "description": "Iconify Open Iconic Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.oi.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.fa",
+        "name": "Font Awesome 4",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Dave Gandy (https://github.com/FortAwesome/Font-Awesome/tree/fa-4)"
+            ]
+        ],
+        "description": "Iconify Font Awesome 4 Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.fa.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.simple-line-icons",
+        "name": "Simple line icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Sabbir Ahmed (https://github.com/thesabbir/simple-line-icons)"
+            ]
+        ],
+        "description": "Iconify Simple line icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.simple-line-icons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.wpf",
+        "name": "Icons8 Windows 8 Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Icons8 (https://github.com/icons8/WPF-UI-Framework)"
+            ]
+        ],
+        "description": "Iconify Icons8 Windows 8 Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.wpf.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.et",
+        "name": "Elegant",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Kenny Sing (https://github.com/pprince/etlinefont-bower)"
+            ]
+        ],
+        "description": "Iconify Elegant Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.et.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.fluent-mdl2",
+        "name": "Fluent UI MDL2",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Microsoft Corporation (https://github.com/microsoft/fluentui/tree/master/packages/react-icons-mdl2)"
+            ]
+        ],
+        "description": "Iconify Fluent UI MDL2 Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.fluent-mdl2.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.fontisto",
+        "name": "Fontisto",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Kenan Gündoğan (https://github.com/kenangundogan/fontisto)"
+            ]
+        ],
+        "description": "Iconify Fontisto Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.fontisto.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.vaadin",
+        "name": "Vaadin Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Vaadin (https://github.com/vaadin/web-components)"
+            ]
+        ],
+        "description": "Iconify Vaadin Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.vaadin.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.el",
+        "name": "Elusive Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Team Redux (https://github.com/dovy/elusive-icons)"
+            ]
+        ],
+        "description": "Iconify Elusive Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.el.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.whh",
+        "name": "WebHostingHub Glyphs",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "WebHostingHub (undefined)"
+            ]
+        ],
+        "description": "Iconify WebHostingHub Glyphs Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.whh.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.grommet-icons",
+        "name": "Grommet Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Grommet (https://github.com/grommet/grommet-icons)"
+            ]
+        ],
+        "description": "Iconify Grommet Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.grommet-icons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.si-glyph",
+        "name": "SmartIcons Glyph",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "SmartIcons (undefined)"
+            ]
+        ],
+        "description": "Iconify SmartIcons Glyph Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.si-glyph.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.ls",
+        "name": "Ligature Symbols",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Kazuyuki Motoyama (https://github.com/kudakurage/LigatureSymbols)"
+            ]
+        ],
+        "description": "Iconify Ligature Symbols Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.ls.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.bpmn",
+        "name": "BPMN",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Camunda Services GmbH (https://github.com/bpmn-io/bpmn-font)"
+            ]
+        ],
+        "description": "Iconify BPMN Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.bpmn.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.zmdi",
+        "name": "Material Design Iconic Font",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "MDI Community (https://github.com/zavoloklom/material-design-iconic-font)"
+            ]
+        ],
+        "description": "Iconify Material Design Iconic Font Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.zmdi.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.topcoat",
+        "name": "TopCoat Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "TopCoat (https://github.com/topcoat/icons)"
+            ]
+        ],
+        "description": "Iconify TopCoat Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.topcoat.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.vs",
+        "name": "Vesper Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "TableCheck (https://github.com/kkvesper/vesper-icons)"
+            ]
+        ],
+        "description": "Iconify Vesper Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.vs.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.flat-ui",
+        "name": "Flat UI Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Designmodo, Inc. (https://github.com/designmodo/Flat-UI)"
+            ]
+        ],
+        "description": "Iconify Flat UI Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.flat-ui.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.il",
+        "name": "Icalicons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Icalia Labs (undefined)"
+            ]
+        ],
+        "description": "Iconify Icalicons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.il.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.websymbol",
+        "name": "Web Symbols Liga",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Just Be Nice studio (undefined)"
+            ]
+        ],
+        "description": "Iconify Web Symbols Liga Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.websymbol.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.fontelico",
+        "name": "Fontelico",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Fontello (https://github.com/fontello/fontelico.font)"
+            ]
+        ],
+        "description": "Iconify Fontelico Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.fontelico.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.ps",
+        "name": "PrestaShop Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "PrestaShop (https://github.com/PrestaShop/prestashop-icon-font)"
+            ]
+        ],
+        "description": "Iconify PrestaShop Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.ps.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.feather",
+        "name": "Feather Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Cole Bemis (https://github.com/feathericons/feather)"
+            ]
+        ],
+        "description": "Iconify Feather Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.feather.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.mono-icons",
+        "name": "Mono Icons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "Mono (https://github.com/mono-company/mono-icons)"
+            ]
+        ],
+        "description": "Iconify Mono Icons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.mono-icons.tilepadIcons"
+    },
+    {
+        "id": "com.jacobtread.iconify.pepicons",
+        "name": "Pepicons",
+        "authors": [
+            [
+                "Jacobtread (Icon Pack)",
+                "Iconify",
+                "CyCraft (https://github.com/CyCraft/pepicons)"
+            ]
+        ],
+        "description": "Iconify Pepicons Icon pack",
+        "repo": "TilePad/tilepad-iconify-icon-packs",
+        "fileName": "com.jacobtread.iconify.pepicons.tilepadIcons"
+    }
+]
