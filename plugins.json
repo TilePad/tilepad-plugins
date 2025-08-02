@@ -16,5 +16,14 @@
         ],
         "description": "Interact with OBS Studio through Tilepad tiles",
         "repo": "TilePad/tilepad-plugin-obs-studio"
+    },
+    {
+        "id": "com.jacobtread.tilepad.system-indicators",
+        "name": "System Indicators",
+        "authors": [
+            "Jacobtread"
+        ],
+        "description": "Create indicators for various system components like CPU and GPU temperatures",
+        "repo": "TilePad/tilepad-plugin-system-indicators"
     }
 ]
