@@ -5,7 +5,7 @@
         "authors": [
             "Jacobtread"
         ],
-        "description": "Interact with VTube Studio through Tilepad tiles",
+        "description": "Interact with VTube Studio through TilePad tiles",
         "repo": "TilePad/tilepad-plugin-vt-studio"
     },
     {
@@ -14,7 +14,7 @@
         "authors": [
             "Jacobtread"
         ],
-        "description": "Interact with OBS Studio through Tilepad tiles",
+        "description": "Interact with OBS Studio through TilePad tiles",
         "repo": "TilePad/tilepad-plugin-obs-studio"
     },
     {
@@ -25,5 +25,14 @@
         ],
         "description": "Create indicators for various system components like CPU and GPU temperatures",
         "repo": "TilePad/tilepad-plugin-system-indicators"
+    },
+    {
+        "id": "com.jacobtread.tilepad.twitch",
+        "name": "Twitch",
+        "authors": [
+            "Jacobtread"
+        ],
+        "description": "Interact with Twitch through TilePad tiles",
+        "repo": "TilePad/tilepad-plugin-twitch"
     }
 ]
