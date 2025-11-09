@@ -34,5 +34,14 @@
         ],
         "description": "Interact with Twitch through TilePad tiles",
         "repo": "TilePad/tilepad-plugin-twitch"
+    },
+    {
+        "id": "com.jacobtread.tilepad.vtftk",
+        "name": "VTFTK",
+        "authors": [
+            "Jacobtread"
+        ],
+        "description": "Control VTFTK through TilePad tiles",
+        "repo": "TilePad/tilepad-plugin-vtftk"
     }
 ]
